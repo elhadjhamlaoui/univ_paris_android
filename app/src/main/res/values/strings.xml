@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Projet composants</string>
+    <string name="title_home">Home</string>
+
+    <string name="title_telechargement">Flux</string>
+    <string name="channel_name">main_channel</string>
+
+</resources>
